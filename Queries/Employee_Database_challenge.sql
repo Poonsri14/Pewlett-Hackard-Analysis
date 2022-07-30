@@ -55,7 +55,10 @@ ORDER BY count (me.title)DESC;
 
 select * from mentorship_number;
 
--- Total of Retiring Employee by Title.
+-- Total of Retiring Employee 
 select SUM(count)
 from retiring_titles;
 
+-- Total of Mentorsip Eligibility Employee 
+select SUM(count)
+from mentorship_number;
