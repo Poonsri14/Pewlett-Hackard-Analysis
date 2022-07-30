@@ -6,8 +6,21 @@ To analysis and determine the number of retiring employees per title, and identi
 
 ## Results:
 
+### The Retirement Title
+
+### Unique Title
+
+### The Number of Retiring Employees by Title
+
+### The Employees Eligible for the Mentorship Program
+
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+#1. retired(ment) by titile - people have multiple titles, so it's not unique
+2. Uniq title - each person has one role base on present role
+3. retiring title(will be) 
+4. mentorship(emp eligible for mentorship.)
+
 
 
 ## Summary:
